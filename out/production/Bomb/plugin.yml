@@ -1,0 +1,12 @@
+name: Bomb
+version: 1.0
+main: me.aerobyte.bomb.Main
+author: aerobyte
+
+commands:
+  clear:
+    aliases: [ci]
+  heal:
+    aliases: [health]
+  gm:
+    aliases: [manfuckyobith]
